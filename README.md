@@ -29,7 +29,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Akshat8303/Akshat8303/output/snake.svg" alt="Snake animation" />
-
 ###
